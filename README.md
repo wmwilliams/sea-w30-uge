@@ -79,3 +79,7 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+Survey questions
+1. I enjoyed learning about git, it was something that I have never used before. 
+2. Overall it was pretty good. The unix section was a little slow.
+3. 9 very worthwhile.
